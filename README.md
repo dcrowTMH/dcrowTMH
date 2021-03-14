@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dcrowTMH
+- 👀 I’m interested in Data science, Machine Learning & AI
+- 🌱 I’m currently learning Python, R & SQL
+- 💞️ I’m looking to collaborate on some data manipulation or model design
+- 📫 Please contact me through github
