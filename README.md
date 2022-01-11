@@ -6,4 +6,4 @@
 - 💞️ I’m looking to collaborate on some data manipulation or model design
 - 📫 Please contact me through github
 - Medium: https://medium.com/@dcrowdmt
-- (Medium account was lost and will start it again soon, please contant though githun for disscusion)
+- (Medium account was lost and will start new one soon, please contact through githun for disscusion)
