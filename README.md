@@ -5,3 +5,5 @@
 - Aim to start with some Non-SQL database and visualize tool such as Tableau/ Power BI
 - 💞️ I’m looking to collaborate on some data manipulation or model design
 - 📫 Please contact me through github
+- Medium: https://medium.com/@dcrowdmt
+- (Medium account was lost and will start it again soon, please contant though githun for disscusion)
