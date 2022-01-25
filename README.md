@@ -9,8 +9,8 @@
 3) NoSQL database & POWER BI/ TABLEAU 
 --------------------------------------------------------------------------------------------------
 - Try to make a small consistent effort a day
-(1.00)^365 = 1
-(1.01)^365 = 37.7
+- (1.00)^365 = 1
+- (1.01)^365 = 37.7
 --------------------------------------------------------------------------------------------------
 - 💞️ I’m looking to collaborate on some data manipulation or model design
 - 📫 Please contact me through github
