@@ -6,7 +6,7 @@
 - C++ 
 - algorithm for multivariate analysis (On going with Kaggle: house-price dataset & movie)
 - NoSQL database & POWER BI/ TABLEAU 
---------------------------------------------------------------------------------------------------
+-
 - Try to make a small consistent effort a day
 - (1.00)^365 = 1
 - (1.01)^365 = 37.7
