@@ -4,9 +4,9 @@
 --------------------------------------------------------------------------------------------------
 - Commonly use language: Python, R & SQL
 - Next target: 
-1) C++ 
-2) algorithm for multivariate analysis (On going with Kaggle: house-price dataset & movie)
-3) NoSQL database & POWER BI/ TABLEAU 
+- C++ 
+- algorithm for multivariate analysis (On going with Kaggle: house-price dataset & movie)
+- NoSQL database & POWER BI/ TABLEAU 
 --------------------------------------------------------------------------------------------------
 - Try to make a small consistent effort a day
 - (1.00)^365 = 1
