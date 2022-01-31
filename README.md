@@ -12,6 +12,6 @@
 - (1.01)^365 = 37.7
 -
 - 💞️ I’m looking to collaborate on some data manipulation or model design
-- 📫 Please contact me through github
+- 📫 Please contact me through github / Medium
 - Medium: https://medium.com/@dcrowdmt
-- (Medium account was lost and will start new one soon, please contact through githun for disscusion)
+- (Just got back my medium account)
