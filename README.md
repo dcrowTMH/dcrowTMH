@@ -4,7 +4,9 @@
 - Commonly use language: Python, R & SQL
 - Next target: 
 - C++ 
-- algorithm for multivariate analysis (On going with Kaggle: house-price dataset & movie)
+- algorithm for dimension reduction
+- machine learning skill practice (Kaggle competition)
+- Knowledge about data-driven in business (Coursera course)
 - NoSQL database & POWER BI/ TABLEAU 
 -
 - Try to make a small consistent effort a day
