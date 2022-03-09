@@ -3,17 +3,17 @@
 - 🌱 I’m currently learning and going for a path towards Data Scientist
 - Commonly use language: Python, R & SQL
 - Next target: 
-- C++ 
-- algorithm for dimension reduction
+- C++ Data Structure part
 - machine learning skill practice (Kaggle competition)
 - Knowledge about data-driven in business (Coursera course)
-- NoSQL database & POWER BI/ TABLEAU 
--
+- POWER BI
+- SQL Database
+- NoSQL Database
+- 
 - Try to make a small consistent effort a day
 - (1.00)^365 = 1
 - (1.01)^365 = 37.7
 -
 - 💞️ I’m looking to collaborate on some data manipulation or model design
-- 📫 Please contact me through github / Medium
+- 📫 Please contact me through Medium or Kaggle (@dcrowd)
 - Medium: https://medium.com/@dcrowdmt
-- (Just got back my medium account)
