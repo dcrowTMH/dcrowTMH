@@ -1,13 +1,20 @@
 - 👋 Hi, I’m @dcrowTMH
 - 👀 I’m interested in Data science, Machine Learning & AI
 - 🌱 I’m currently learning and going for a path towards Data Scientist
+- Try to learn & be more pratical at the same time
+- 
 - Commonly use language: Python, R & SQL
+- 
+- Working: 
+- Interactive dashboard with Python
+- Kaggle competition: Tabular Playground Series - Mar 2022 (Coopperate with other two nice & professional guys)
+- Data-driven in business (Coursera video)
+
 - Next target: 
 - C++ Data Structure part
 - machine learning skill practice (Kaggle competition)
-- Knowledge about data-driven in business (Coursera course)
-- POWER BI
-- SQL Database
+- POWER BI (Video in mean time)
+- SQL Database (Code for interact with Python)
 - NoSQL Database
 - 
 - Try to make a small consistent effort a day
@@ -17,3 +24,4 @@
 - 💞️ I’m looking to collaborate on some data manipulation or model design
 - 📫 Please contact me through Medium or Kaggle (@dcrowd)
 - Medium: https://medium.com/@dcrowdmt
+
