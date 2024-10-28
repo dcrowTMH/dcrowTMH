@@ -4,7 +4,7 @@
 - All the materials for working & cooperate project with others included
 --------------- 
 - Commonly use language: Python & SQL
-- Keep learning: R, C++, HTML, CSS, JavaScript
+- Keep learning: Rust, AI, Pytorch
 - BI tool: PowerBI
 --------------- 
 - 💞️ I’m looking to collaborate on some data manipulation or model design
