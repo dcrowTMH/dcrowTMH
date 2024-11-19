@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ming. @dcrowTMH
 - 👀 I’m interested in Data science, Machine Learning & AI.
-- 🌱 I’m currently working in bio-engineering secptor.
+- 🌱 I’m currently working as a data analyst.
 - All the materials for working & cooperate project with others included
 --------------- 
 - Commonly use language: Python & SQL
