@@ -10,3 +10,5 @@
 - 💞️ I’m looking to collaborate on some data manipulation or model design
 - 📫 Please contact me through Medium or Kaggle (@dcrowd)
 - Medium: https://medium.com/@dcrowdmt
+---------------
+Trying to look into Open Source & Hugging Face for more detials.
